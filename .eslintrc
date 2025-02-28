@@ -1,0 +1,14 @@
+{
+	"name": "multer-gridfs-storage",
+	"eslintConfig": {
+		"extends": [
+			"xo",
+			"xo-typescript"
+		]
+	},
+	"rules": {
+		"max-len": ["error", {
+			"code": 180
+		}]
+	}
+}
